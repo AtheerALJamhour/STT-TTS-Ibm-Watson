@@ -29,3 +29,32 @@ The steps to make the project is to download the following requirements:
 
 4- websocket-client
 
+The sources I used for each task: 
+
+-Speech To Text in IBM Watson : 
+
+https://youtu.be/A9_0OgW1LZU
+
+https://youtu.be/YCyuZM454_I
+
+filse name : 
+
+atheer.py
+
+atheer_result.txt
+
+-Text To Speech in IBM Watson : 
+
+https://youtu.be/8k8S5ruFAUs
+
+https://youtu.be/_Q8wtPCyMdo
+
+filse names : 
+
+TTS.py
+
+speech.mp3
+
+The rest of the files are what I learned to implement the project
+
+This is what I benefited from in the task and it was a new and fun experience at the same time  , as I learned the new programming language for me (Python), in addition to learning how to skip errors and how to convert (STT ) & (TTS). 
