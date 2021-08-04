@@ -1,0 +1,2 @@
+Recognized text:
+hello everyone this is my first a project in language python 
